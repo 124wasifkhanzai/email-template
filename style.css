@@ -1,0 +1,27 @@
+.image{
+    position: absolute;
+    left: 8px;
+    top: 120px;
+    width: 1092px;
+    height: 391px;
+}
+.image 1{ position: relative;}
+.button {margin-left:50%;
+background: #473096}
+h2{margin-left: 50%}
+content p {align-content: center
+;}
+footer{
+    background: #8CF016;
+    font-size: 10px;
+}
+body{background: #F5F5F5;
+}
+.image 1hover{ visibility: hidden; 
+	
+}
+button hover{
+    background: inherit;
+    -webkit-box-shadow: 11px 12px 46px #F0D5D6;
+    box-shadow: 11px 12px 46px #F0D5D6;
+}
